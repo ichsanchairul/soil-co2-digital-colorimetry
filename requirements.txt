@@ -1,0 +1,7 @@
+Pillow
+numpy
+colour-science
+matplotlib
+scikit-image
+scikit-learn
+pandas
